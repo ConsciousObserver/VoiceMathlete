@@ -1,5 +1,4 @@
 $(function () {
-	responsiveVoice.speak('This is nice');
 	var operatorMap = [
 		{
 			'symbol': '-',
